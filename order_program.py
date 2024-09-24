@@ -1,4 +1,4 @@
-# ORDERING PROGRAM
+# ORDER PROGRAM
 menu = {"doner": 30.00,
          "kebap": 100.00,
          "baklava": 50.00,
